@@ -47,12 +47,12 @@ Se usara como base de datos MySQL.
 
 # get
 
-![Test insomnia post producto](imagenes/getProductoTest.png)
+![Test insomnia get producto](imagenes/getProductTest.png)
 
 # put
 
-![Test insomnia post producto](imagenes/putProductoTest.png)
+![Test insomnia put producto](imagenes/putProductTest.png)
 
 # delete
 
-![Test insomnia post producto](imagenes/deleteProductoTest.png)
+![Test insomnia delete producto](imagenes/deleteProductTest.png)
