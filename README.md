@@ -41,4 +41,4 @@ Se usara como base de datos MySQL.
 
 ## Screenshots Test Productos
 
-![Test insomnia post producto](src/main/resources/static/imagenes/postProducto.png)
+![Test insomnia post producto](resources/static/imagenes/postProducto.png)
