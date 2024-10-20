@@ -41,4 +41,18 @@ Se usara como base de datos MySQL.
 
 ## Screenshots Test Productos
 
+# post
+
 ![Test insomnia post producto](imagenes/postProductoTest.png)
+
+# get
+
+![Test insomnia post producto](imagenes/getProductoTest.png)
+
+# put
+
+![Test insomnia post producto](imagenes/putProductoTest.png)
+
+# delete
+
+![Test insomnia post producto](imagenes/deleteProductoTest.png)
