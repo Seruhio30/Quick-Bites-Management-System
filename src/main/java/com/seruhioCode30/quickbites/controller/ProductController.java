@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/products")
+@RequestMapping("/api/admin/products")
 public class ProductController {
 
     @Autowired
@@ -23,7 +23,7 @@ public class ProductController {
     }
 
     // Obtener todos los productos
-    @GetMapping
+    @GetMapping("/api/products")
     public ResponseEntity<List<Product>> getAllProducts() {
         List<Product> products = productService.getAllProducts();
         return ResponseEntity.ok(products);
@@ -50,4 +50,6 @@ public class ProductController {
         productService.deleteProduct(id);
         return ResponseEntity.noContent().build();
     }
+
+
 }

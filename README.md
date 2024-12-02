@@ -6,10 +6,11 @@ Sitio para el manejo completo de Quick Bites back y front end con mysql, Java e 
 
 1. CRUD para productos.
 2. CRUD para pedidos.
-3. Control de pedidos. Sistema de gestión de inventarios.
-4. Funcionalidad para registrar ventas y facturación.
-5. Integración con WhatsApp para recibir pedidos.
-6. Requisitos Java 17+ MySQL
+3. Control de pedidos. 
+4. Sistema de gestión de inventarios.
+5. Funcionalidad para registrar ventas y facturación.
+6. Integración con WhatsApp para recibir pedidos.
+7. Requisitos Java 17+ MySQL
 
 ## Dependencias de Spring Boot.
 
